@@ -14,7 +14,7 @@
 - 🌱 **Learning:** Claude Certified Architect (CCA-F)
 - 💼 **Open to:** Senior PM · AI Product Manager · Go-to-Market PM · Product Owner roles
 - 💬 **Ask me about:** Customer Discovery, AI Agents, AI Coaching And Mentoring, Go-To-Market
-- 😄 **Pronouns:** she / her / gets it done
+- 😄 **Pronouns:** She / Her / Gets it done
 - 🌍 **Fun fact:** I lived in the Middle East for 10 years
 
 ---
