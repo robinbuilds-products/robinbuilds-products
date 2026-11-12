@@ -38,7 +38,7 @@
 
 | Project | What it is |
 |---|---|
-| **Find Storage at the Lake of the Ozarks** | First hyperlocal lead source for Lake of the Ozarks storage owners, filling gaps big marketplaces miss · 327 listings · launched in 15 days · [Visit site](https://findstoragelakeoftheozarks.com) |
+| **Find Storage at the Lake of the Ozarks** | First hyperlocal lead source for Lake of the Ozarks storage owners, filling gaps big marketplaces miss · 327 listings · launched in 15 days · Next: verified owner sign-in, one dashboard for leads, and AI voice outreach · [Visit site](https://findstoragelakeoftheozarks.com) |
 | **Hotel Price Tracker** | A daily source of truth on hotel prices for a client, replacing daily manual checks and the need for a travel agent. Built with Copilot after AI tools said it couldn't be done. 🔒 *Private repo* |
 | **What the What?** | Chrome extension built to help neurodivergent candidates understand what interviewers are asking, then practice answers against the job description and their resume. Next: submitting to the Chrome Web Store. |
 
