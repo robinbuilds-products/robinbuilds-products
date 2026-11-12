@@ -29,12 +29,6 @@
 
 ---
 
-## ⭐ Strengths
-
-0 to 1 · Modernizing products · Customer discovery · Data-informed decisions · Go-to-market · AI agents · AI coaching · Mentoring
-
----
-
 ## 🛠️ Projects
 
 | Project | What it is |
@@ -44,27 +38,6 @@
 | **What the What?** | Chrome extension built to help neurodivergent candidates understand what interviewers are asking, then practice answers against the job description and their resume. Next: submitting to the Chrome Web Store. |
 
 \* 🔒 Private repo for now. Going public soon.
-
----
-
-## 💼 Where I've built
-
-JPMorgan Chase · FROSCH · Builder Homesite · Skydive Dubai · Find Storage at the Lake of the Ozarks
-
-- First-ever PM at JPMorgan Chase Corporate Travel Solutions, owning a SaaS portfolio of 4+ products
-- Grew Skydive Dubai's audience from 10K to 1M+ across 5 channels
-
----
-
-## 🧰 Toolkit\*
-
-**🤖 AI & build:** Claude · ChatGPT · Copilot · Lovable · Supabase · Make · MCP · GitHub
-
-**🧭 Product:** Jira · Confluence · Azure DevOps · Figma · Miro
-
-**📊 Data & CRM:** GA4 · PostHog · Power BI · Salesforce · SQL (basic queries)
-
-\* Just the highlights. Ask me what else I've worked with.
 
 ---
 
