@@ -10,22 +10,27 @@
 
 ## ⚡ Right now
 
-- 🔭 **Working on:** Find Storage + price trackers
+- 🔭 **Working on:** [Find Storage at the Lake of the Ozarks](https://findstoragelakeoftheozarks.com) and bespoke price trackers
 - 🌱 **Learning:** Claude Certified Architect (CCA-F)
-- 💼 **Open to:** enior PM · AI Product Manager · Go-to-Market PM · Product Owner roles
+- 💼 **Open to:** Senior PM · AI Product Manager · Go-to-Market PM · Product Owner roles
 - 💬 **Ask me about:** Customer Discovery, AI Agents, AI Coaching And Mentoring, Go-To-Market
 - 😄 **Pronouns:** she / her / gets it done
 - 🌍 **Fun fact:** I lived in the Middle East for 10 years
 
 ---
 
-## 🧭 What I do
+## 🚀 What I do
 
-- Turn messy workflows into clear products
-- Lead customer discovery, specs, and rapid prototypes
-- Build with AI agents, end to end
-- Grew Skydive Dubai's audience from 10K to 1M+ across 5 channels
-- Coach small businesses on adopting AI
+1. Break complex, multi-layered problems into smaller pieces
+2. Separate each issue and make a plan for it
+3. Execute against each plan, one by one
+4. Lead with empathy and kindness, building strong relationships with stakeholders and vendors
+
+---
+
+## ⭐ Strengths
+
+0 to 1 · Modernizing products · Customer discovery · Go-to-market · AI agents · AI coaching
 
 ---
 
@@ -33,9 +38,9 @@
 
 | Project | What it is |
 |---|---|
-| **Find Storage** | Live. First hyperlocal lead source for Lake of the Ozarks storage owners, filling gaps big marketplaces miss · 327 listings · launched in 15 days · [Visit site](https://findstoragelakeoftheozarks.com) |
-| **Hotel Price Tracker** | Live. Price history + alerts for a client. Built with Copilot after AI tools said it couldn't be done. 🔒 *Private repo* |
-| **What the What?** | Chrome extension that clarifies interview questions live. Built, not yet public. |
+| **Find Storage at the Lake of the Ozarks** | First hyperlocal lead source for Lake of the Ozarks storage owners, filling gaps big marketplaces miss · 327 listings · launched in 15 days · [Visit site](https://findstoragelakeoftheozarks.com) |
+| **Hotel Price Tracker** | A daily source of truth on hotel prices for a client, replacing daily manual checks and the need for a travel agent. Built with Copilot after AI tools said it couldn't be done. 🔒 *Private repo* |
+| **What the What?** | Chrome extension built to help neurodivergent candidates understand what interviewers are asking, then practice answers against the job description and their resume. Next: submitting to the Chrome Web Store. |
 
 ---
 
@@ -48,6 +53,8 @@ A living portfolio. New trackers and builds added as I ship them.
 ## 💼 Where I've built
 
 JPMorgan Chase · FROSCH · Builder Homesite · Skydive Dubai · Find Storage at the Lake of the Ozarks
+
+- Grew Skydive Dubai's audience from 10K to 1M+ across 5 channels
 
 ---
 
