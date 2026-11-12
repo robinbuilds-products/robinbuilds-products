@@ -13,8 +13,8 @@
 - 🔭 **Working on:** [Find Storage at the Lake of the Ozarks](https://findstoragelakeoftheozarks.com) and bespoke price trackers
 - 🌱 **Learning:** Claude Certified Architect (CCA-F)
 - 💼 **Open to:** Senior PM · AI Product Manager · Go-to-Market PM · Product Owner roles
-- 💬 **Ask me about:** Customer Discovery, AI Agents, AI Coaching And Mentoring, Go-To-Market
-- 😄 **Pronouns:** She / Her / Gets it done
+- 💬 **Ask me about:** Customer Discovery, AI Agents, AI Coaching and Mentoring, Go-to-Market
+- 😄 **Pronouns:** she / her / gets it done
 - 🌍 **Fun fact:** I lived in the Middle East for 10 years
 
 ---
@@ -38,9 +38,12 @@
 
 | Project | What it is |
 |---|---|
-| **Find Storage at the Lake of the Ozarks** | First hyperlocal lead source for Lake of the Ozarks storage owners, filling gaps big marketplaces miss · 327 listings · launched in 15 days · Next: verified owner sign-in, one dashboard for leads, and AI voice outreach · [Visit site](https://findstoragelakeoftheozarks.com) |
-| **Hotel Price Tracker** | A daily source of truth on hotel prices for a client, replacing daily manual checks and the need for a travel agent. Built with Copilot after AI tools said it couldn't be done. 🔒 *Private repo* |
+| **Find Storage at the Lake of the Ozarks** | First hyperlocal lead source for Lake of the Ozarks storage owners, filling gaps big marketplaces miss · 327 listings scraped, human-verified, and enriched · launched in 15 days · Next: verified owner sign-in, one dashboard for leads, and AI voice outreach · [Visit site](https://findstoragelakeoftheozarks.com) |
+| **Hotel Price Tracker**\* | Bespoke tracker giving a client a daily source of truth on hotel prices, replacing manual checks and the need for a travel agent. Built with Copilot after AI tools said it couldn't be done. Proven viable · Next: hand off to the client and explore AI price prediction |
+| **Flight Price Checker**\* | Bespoke companion to the Hotel Price Tracker. Compares flight prices across two possible dates to decide which one to book the hotel for. Challenge: getting airline pricing data, which isn't typically public. In progress. |
 | **What the What?** | Chrome extension built to help neurodivergent candidates understand what interviewers are asking, then practice answers against the job description and their resume. Next: submitting to the Chrome Web Store. |
+
+\* 🔒 Private repos for now. They'll be made public once each project is complete.
 
 ---
 
@@ -60,13 +63,11 @@ JPMorgan Chase · FROSCH · Builder Homesite · Skydive Dubai · Find Storage at
 
 ## 🧰 Toolkit
 
-**🤖 AI & build:** Claude · ChatGPT · Copilot · Gemini · Lovable · Supabase · Make · MCP · ElevenLabs · GitHub
+**🤖 AI & build:** Claude · ChatGPT · Copilot · Lovable · Supabase · Make · MCP
 
-**🧭 Product:** Jira · Jira Product Discovery · Azure DevOps · Linear · Confluence · Figma · Miro · Loom
+**🧭 Product:** Jira · Confluence · Azure DevOps · Figma · Miro
 
-**📊 Data & CRM:** GA4 · Adobe Analytics · PostHog · Power BI · Salesforce · SQL (basic queries)
-
-**🧩 Platforms:** AWS · WordPress · Zendesk · Intercom · Twilio · Sabre · Amadeus · Concur
+**📊 Data & CRM:** GA4 · PostHog · Power BI · Salesforce · SQL (basic queries)
 
 ---
 
