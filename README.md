@@ -14,7 +14,7 @@
 - 🌱 **Learning:** Claude Certified Architect (CCA-F)
 - 💼 **Open to:** Senior PM · AI Product Manager · Go-to-Market PM · Product Owner roles
 - 💬 **Ask me about:** Customer Discovery, AI Agents, AI Coaching and Mentoring, Go-to-Market
-- 😄 **Pronouns:** She / Her / Gets it done
+- 😄 **Pronouns:** She / Her / Gets It Done
 - 🌍 **Fun fact:** I lived in the Middle East for 10 years
 
 ---
@@ -41,7 +41,7 @@
 | Project | What it is |
 |---|---|
 | **Find Storage at the Lake of the Ozarks** | First hyperlocal lead source for Lake of the Ozarks storage owners, filling gaps big marketplaces miss. 327 listings scraped, human-verified, and enriched. Launched in 15 days. Next: verified owner sign-in, one dashboard for leads, and AI voice outreach. [Visit site](https://findstoragelakeoftheozarks.com) |
-| **Hotel Price Tracker**\* | Bespoke price tracker giving a client a daily source of truth on hotel prices, replacing manual checks and the need for a travel agent. Built with Copilot after AI tools said it couldn't be done. Proven viable. Next: hand off to the client and explore AI price prediction. |
+| **Hotel Price Tracker**\* | Partnered with a client to eliminate manual daily hotel rate checks and third-party booking overhead. Designed a historical pricing baseline so the system could detect and alert on true below-market drops. When form-gated rendering blocked standard AI tools, Copilot and I dug into the page source to isolate the underlying data layer, then rapidly built an automated tracker on GitHub Actions. Now running in production, it delivers daily alerts to the client's inbox as a reliable source of truth, and the client can query the database in real time on their own. It's now fully handed off to the client, with AI price prediction up next. |
 | **Flight Price Checker**\* | Bespoke companion to the Hotel Price Tracker. Compares flight prices on two possible dates to help pick the best one for the hotel booking. Challenge: getting airline pricing data, which isn't typically public. In progress. |
 | **What the What?** | Chrome extension built to help neurodivergent candidates understand what interviewers are asking, then practice answers against the job description and their resume. Next: submitting to the Chrome Web Store. |
 
@@ -60,7 +60,7 @@ JPMorgan Chase · FROSCH · Builder Homesite · Skydive Dubai · Find Storage at
 
 ## 🧰 Toolkit\*
 
-**🤖 AI & build:** Claude · ChatGPT · Copilot · Lovable · Supabase · Make · MCP
+**🤖 AI & build:** Claude · ChatGPT · Copilot · Lovable · Supabase · Make · MCP · GitHub
 
 **🧭 Product:** Jira · Confluence · Azure DevOps · Figma · Miro
 
