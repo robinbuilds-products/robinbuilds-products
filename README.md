@@ -12,7 +12,7 @@
 
 - 🔭 **Working on:** [Find Storage at the Lake of the Ozarks](https://findstoragelakeoftheozarks.com) and hands-on builds from my CCA-F prep
 - 🌱 **Learning:** Claude Certified Architect (CCA-F)
-- 💼 **Open to:** Senior PM · AI Product Manager · Go-to-Market PM · Product Owner roles
+- 💼 **Open to:** Senior PM · AI Product Manager · Forward Deployed PM · Go-to-Market PM · Product Owner roles
 - 💬 **Ask me about:** Customer Discovery, AI Agents, AI Coaching and Mentoring, Go-to-Market
 - 😄 **Pronouns:** She / Her / Gets It Done
 - 🌍 **Fun fact:** I lived and worked in the Middle East for 10 years
