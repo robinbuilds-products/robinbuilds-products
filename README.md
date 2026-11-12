@@ -25,6 +25,7 @@
 - Lead customer discovery, specs, and rapid prototypes
 - Build with AI agents, end to end
 - Grew Skydive Dubai's audience from 10K to 1M+ across 5 channels
+- Coach small businesses on adopting AI
 
 ---
 
