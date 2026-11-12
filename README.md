@@ -4,6 +4,8 @@
 
 🔍 Discovery-led · 🤝 Relationship-driven · 🤖 AI-native builder
 
+🔗 [Portfolio](https://productbyrobin.lovable.app) · [LinkedIn](https://www.linkedin.com/in/orobin/)
+
 ---
 
 ## ⚡ Right now
@@ -29,17 +31,21 @@
 
 | Project | What it is |
 |---|---|
-| **Find Storage** | AI-native two-sided storage marketplace (solo founder) |
+| **Find Storage** | Live. First hyperlocal lead source for Lake of the Ozarks storage owners, filling gaps big marketplaces miss · 327 listings · launched in 15 days · [Visit site](https://findstoragelakeoftheozarks.com) |
 | **Hotel Price Tracker** | Live. Price history + alerts for a client. Built with Copilot after AI tools said it couldn't be done. 🔒 *Private repo* |
 | **What the What?** | Chrome extension that clarifies interview questions live. Built, not yet public. |
 
-> 🌱 Living portfolio — new trackers and builds added as I ship them.
+---
+
+## 🌱 Proof of work
+
+A living portfolio. New trackers and builds added as I ship them.
 
 ---
 
 ## 💼 Where I've built
 
-JPMorgan Chase · FROSCH · Builder Homesite · Skydive Dubai
+JPMorgan Chase · FROSCH · Builder Homesite · Skydive Dubai · Find Storage at the Lake of the Ozarks
 
 ---
 
@@ -49,7 +55,7 @@ JPMorgan Chase · FROSCH · Builder Homesite · Skydive Dubai
 
 **🧭 Product:** Jira · Jira Product Discovery · Azure DevOps · Linear · Confluence · Figma · Miro · Loom
 
-**📊 Data & CRM:** GA4 · Adobe Analytics · PostHog · Power BI · Salesforce
+**📊 Data & CRM:** GA4 · Adobe Analytics · PostHog · Power BI · Salesforce · SQL (basic queries)
 
 **🧩 Platforms:** AWS · WordPress · Zendesk · Intercom · Twilio · Sabre · Amadeus · Concur
 
@@ -58,9 +64,8 @@ JPMorgan Chase · FROSCH · Builder Homesite · Skydive Dubai
 ## ✨ Beyond product
 
 - 📈 Grew Skydive Dubai's social from 10K to 1M+ followers across 5 channels
-- 📸 Award-winning former photojournalist
+- 📸 Award-winning former photojournalist and photo editor
 - 🐱 Children's cat book author · [See it on Amazon](https://www.amazon.com/dp/B0CSDLJPN9)
-- 🌊 Founder, Live Love Ozarks
 
 ---
 
