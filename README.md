@@ -45,7 +45,7 @@
 | **Flight Price Checker**\* | Bespoke companion to the Hotel Price Tracker. Compares flight prices across two possible dates to decide which one to book the hotel for. Challenge: getting airline pricing data, which isn't typically public. In progress. |
 | **What the What?** | Chrome extension built to help neurodivergent candidates understand what interviewers are asking, then practice answers against the job description and their resume. Next: submitting to the Chrome Web Store. |
 
-\* 🔒 Private repos for now. They'll be made public once each project is complete.
+\* 🔒 Private repos for now. They'll go public once each project is complete and the client approves.
 
 ---
 
