@@ -30,7 +30,7 @@
 
 ## ⭐ Strengths
 
-0 to 1 · Modernizing products · Customer discovery · Go-to-market · AI agents · AI coaching
+0 to 1 · Modernizing products · Customer discovery · Data-informed decisions · Go-to-market · AI agents · AI coaching
 
 ---
 
