@@ -15,7 +15,7 @@
 - 💼 **Open to:** Senior PM · AI Product Manager · Go-to-Market PM · Product Owner roles
 - 💬 **Ask me about:** Customer Discovery, AI Agents, AI Coaching and Mentoring, Go-to-Market
 - 😄 **Pronouns:** She / Her / Gets It Done
-- 🌍 **Fun fact:** I lived in the Middle East for 10 years
+- 🌍 **Fun fact:** lived and worked in the Middle East for 10 years
 
 ---
 
