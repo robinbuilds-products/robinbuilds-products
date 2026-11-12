@@ -12,8 +12,8 @@
 
 - 🔭 **Working on:** Find Storage + price trackers
 - 🌱 **Learning:** Claude Certified Architect (CCA-F)
-- 💼 **Open to:** Senior PM · AI Product Manager · Product Owner roles
-- 💬 **Ask me about:** customer discovery, AI agents, social media growth
+- 💼 **Open to:** enior PM · AI Product Manager · Go-to-Market PM · Product Owner roles
+- 💬 **Ask me about:** Customer Discovery, AI Agents, AI Coaching And Mentoring, Go-To-Market
 - 😄 **Pronouns:** she / her / gets it done
 - 🌍 **Fun fact:** I lived in the Middle East for 10 years
 
@@ -24,6 +24,7 @@
 - Turn messy workflows into clear products
 - Lead customer discovery, specs, and rapid prototypes
 - Build with AI agents, end to end
+- Grew Skydive Dubai's audience from 10K to 1M+ across 5 channels
 
 ---
 
@@ -63,7 +64,6 @@ JPMorgan Chase · FROSCH · Builder Homesite · Skydive Dubai · Find Storage at
 
 ## ✨ Beyond product
 
-- 📈 Grew Skydive Dubai's social from 10K to 1M+ followers across 5 channels
 - 📸 Award-winning former photojournalist and photo editor
 - 🐱 Children's cat book author · [See it on Amazon](https://www.amazon.com/dp/B0CSDLJPN9)
 
