@@ -15,6 +15,8 @@
 - 💼 **Open to:** Senior PM · AI Product Manager · Forward Deployed PM · Go-to-Market PM · Product Owner roles
 - 💬 **Ask me about:** Customer Discovery, AI Agents, AI Coaching and Mentoring, Go-to-Market
 - 🌍 **Fun fact:** I lived and worked in the Middle East for 10 years
+- 📸 Award-winning former photojournalist and photo editor
+- 🐱 Cat mom and children's cat book author · [See it on Amazon](https://www.amazon.com/dp/B0CSDLJPN9)
 
 ---
 
@@ -34,12 +36,6 @@
 | Project | What it is |
 |---|---|
 | **Find Storage at the Lake of the Ozarks** | First hyperlocal lead source for Lake of the Ozarks storage owners, filling gaps big marketplaces miss. 327 listings scraped, human-verified, and enriched. Launched in 15 days, with over 300 user sessions so far. Next: verified owner sign-in, one dashboard for leads, and AI voice outreach. [Visit site](https://findstoragelakeoftheozarks.com) |
-| **Hotel Price Tracker** | Partnered with a client to eliminate manual daily hotel rate checks and third-party booking overhead. Designed a historical pricing baseline so the system could detect and alert on true below-market drops. When form-gated rendering blocked standard AI tools, Copilot and I dug into the page source to isolate the underlying data layer, then rapidly built an automated tracker on GitHub Actions. Now running in production, it delivers daily alerts to the client's inbox as a reliable source of truth, and the client can query the database in real time on their own. It's now fully handed off to the client, with AI price prediction up next. [View repo](https://github.com/robinbuilds-products/resort-price-tracker) |
+| **Hotel Price Tracker** | Partnered with a client to eliminate manual daily hotel rate checks and third-party booking overhead. Designed a historical pricing baseline so the system could detect and alert on true below-market drops. When form-gated rendering blocked standard AI tools, Copilot and I dug into the page source to isolate the underlying data layer, then rapidly built an automated tracker on GitHub Actions. Now running in production, it delivers daily alerts to the client's inbox as a reliable source of truth, and the client can query the database in real time on their own. It's now fully handed off to the client, with AI price prediction up next. [View Hotel Price Tracker repo](https://github.com/robinbuilds-products/resort-price-tracker) |
+| **Flight Price Tracker** | Partnered with a client to replace daily manual fare checks and a travel agent when booking premium-cabin flights for two. Built an automated tracker on GitHub Actions that pulls Google Flights prices through SerpApi once a day, keeps a full price history, and emails an alert when a fare hits a target or drops. Spent time with Copilot weighing options before building, then caught a wrong cabin setting by checking results against the live site. Designed a tailored email alert with a link to each fare, the alert level, and pricing trends. Built in a day and now running daily, with alerts going to me during testing and client handoff next. AI price prediction can follow after six months of data. [View Flight Price Tracker repo](https://github.com/robinbuilds-products/flight-price-tracker) |
 | **What the What?** | Chrome extension built to help neurodivergent candidates understand what interviewers are asking, then practice answers against the job description and their resume. Next: submitting to the Chrome Web Store. |
-
----
-
-## ✨ Beyond product
-
-- 📸 Award-winning former photojournalist and photo editor
-- 🐱 Children's cat book author · [See it on Amazon](https://www.amazon.com/dp/B0CSDLJPN9)
