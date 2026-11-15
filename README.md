@@ -1,41 +1,8 @@
-# Hi, I'm Robin 👋
-
-**Senior Product Manager** · 13+ years building products people actually use
-
-🔍 Discovery-led · 🤝 Relationship-driven · 🤖 AI-native builder
-
-🔗 [Portfolio](https://productbyrobin.lovable.app) · [LinkedIn](https://www.linkedin.com/in/orobin/)
-
----
-
-## ⚡ Right now
-
-- 🔭 **Working on:** [Find Storage at the Lake of the Ozarks](https://findstoragelakeoftheozarks.com) and hands-on builds from my CCA-F prep
-- 🌱 **Learning:** Claude Certified Architect (CCA-F)
-- 💼 **Open to:** Senior PM · AI Product Manager · Forward Deployed PM · Go-to-Market PM · Product Owner roles
-- 💬 **Ask me about:** Customer Discovery, AI Agents, AI Coaching and Mentoring, Go-to-Market
-- 🌍 **Fun fact:** I lived and worked in the Middle East for 10 years
-- 📸 Award-winning former photojournalist and photo editor
-- 🐱 Cat mom and children's cat book author · [See it on Amazon](https://www.amazon.com/dp/B0CSDLJPN9)
-
----
-
-## 🚀 What I do
-
-1. Break complex, multi-layered problems into smaller pieces
-2. Separate each issue and make a plan for it
-3. Execute against each plan, one by one
-4. Lead with empathy and kindness, building strong relationships with stakeholders and vendors
-5. Step into users' shoes by using the product myself, because that's where real insights happen
-6. Find or create user forums for direct insights that data alone can't provide
-
----
-
-## 🛠️ Projects
-
-| Project | What it is |
-|---|---|
-| **Find Storage at the Lake of the Ozarks** | First hyperlocal lead source for Lake of the Ozarks storage owners, filling gaps big marketplaces miss. 327 listings scraped, human-verified, and enriched. Launched in 15 days, with over 300 user sessions so far. Next: verified owner sign-in, one dashboard for leads, and AI voice outreach. [Visit site](https://findstoragelakeoftheozarks.com) |
-| **Hotel Price Tracker** | Partnered with a client to eliminate manual daily hotel rate checks and third-party booking overhead. Designed a historical pricing baseline so the system could detect and alert on true below-market drops. When form-gated rendering blocked standard AI tools, Copilot and I dug into the page source to isolate the underlying data layer, then rapidly built an automated tracker on GitHub Actions. Now running in production, it delivers daily alerts to the client's inbox as a reliable source of truth, and the client can query the database in real time on their own. It's now fully handed off to the client, with AI price prediction up next. [View Hotel Price Tracker repo](https://github.com/robinbuilds-products/resort-price-tracker) |
-| **Flight Price Tracker** | Partnered with a client to replace daily manual fare checks and a travel agent when booking premium-cabin flights for two. Built an automated tracker on GitHub Actions that pulls Google Flights prices through SerpApi once a day, keeps a full price history, and emails an alert when a fare hits a target or drops. Spent time with Copilot weighing options before building, then caught a wrong cabin setting by checking results against the live site. Designed a tailored email alert with a link to each fare, the alert level, and pricing trends. Built in a day and now running daily, with alerts going to me during testing and client handoff next. AI price prediction can follow after six months of data. [View Flight Price Tracker repo](https://github.com/robinbuilds-products/flight-price-tracker) |
-| **What the What?** | Chrome extension built to help neurodivergent candidates understand what interviewers are asking, then practice answers against the job description and their resume. Next: submitting to the Chrome Web Store. |
+| Project | What it is | Next step | Status |
+|---|---|---|---|
+| **The Hidden Footprint** | Engaged by an SMB to explore AI-enabled product development and integration for its existing website, supporting product awareness, customer acquisition, and sales for a new book series. Leading client discovery to define implementation scope and success measures, which will shape a phased 3-month roadmap. [Visit site](https://thehiddenfootprint.co.uk) | Complete client discovery and deliver the 3-month roadmap | In Progress |
+| **What the What?** | A Chrome extension that helps neurodivergent candidates understand what interviewers are asking, then practice answers against the job description and their resume. | Submit to the Chrome Web Store | In Progress |
+| **Find Storage at the Lake of the Ozarks** | The first hyperlocal lead source for Lake of the Ozarks storage owners, filling gaps the big marketplaces miss. 327 listings scraped, human-verified, and enriched. Launched in 15 days, with more than 300 user sessions so far. [Visit site](https://findstoragelakeoftheozarks.com) | Add verified owner sign-in, a single dashboard for leads, and AI voice outreach | In Progress |
+| **Flight Price Tracker** | Partnered with a repeat client to replace daily manual fare checks and a travel agent when booking premium-cabin flights for two. Built an automated tracker on GitHub Actions that pulls Google Flights prices through SerpApi once a day, keeps a full price history, and emails an alert when a fare hits a target or drops. Weighed options with Copilot before building, then caught a wrong cabin setting by checking results against the live site. Designed a tailored email alert with a link to each fare, the alert level, and pricing trends. Built in a day and now running daily. [View repo](https://github.com/robinbuilds-products/flight-price-tracker) | Add AI price prediction after six months of data | Completed |
+| **Hotel Price Tracker** | Partnered with the same client as the Flight Price Tracker to replace daily manual hotel rate checks and the need for a travel agent. Designed a price history baseline so the system alerts only on real drops below normal pricing. When standard AI tools couldn't read prices behind the booking form, Copilot and I dug into the page source, found where the pricing data lived, and quickly built an automated tracker on GitHub Actions. It runs in production, sends daily alerts to the client's inbox as a reliable source of truth, and lets the client query the database on their own in real time. Fully handed off to the client. [View repo](https://github.com/robinbuilds-products/resort-price-tracker) | Add AI price prediction | Completed |
+| **The Pancake House Website** | Built a website in Lovable in three hours for a local restaurant that had none, to drive traffic and support its marketing. Goals: a stronger design, the information customers look for, and room for specials and changing menu items. | Present the site to the owner | Completed |
